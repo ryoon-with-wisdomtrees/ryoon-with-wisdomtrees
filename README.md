@@ -1,20 +1,24 @@
+
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ryoon.with.wisdomtrees✨&fontSize=48)
+  # Ryoon.with.wisdomtrees✨
 
 </div>
+<p align="center">
+    <a href="https://seryoon-bibana-cheon.vercel.app/resume" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-755100?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
+  </a>
+  <a href="https://seryoon-bibana-cheon.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-005571?style=flat-square&logo=Bloglovin&logoColor=white"/>
+  </a>
+  <a href="mailto:ryoon.with.wisdomtrees@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/ryoon.with.wisdomtrees-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
 
-  ## 🙋 Seryoon Cheon
-
-
-
-</div>
-
-<div align="center">
-
-  ### 📕 Skills
+  ## 📕 Skills & Tools
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -67,31 +71,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
-
   </br>  </br>
-
-<div align="center">
-<table>
-  <tr align="left">
-  <td valign="top">
-  <p style="font-weight:700">Resume</p>
-  <a href="https://seryoon-bibana-cheon.vercel.app/resume">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://seryoon-bibana-cheon.vercel.app/resume"/>
-  </a>
-  </td> 
-    <td align="center">
-  <p>Blog</p>
-  <a href="https://seryoon-bibana-cheon.vercel.app/">
-    <img width="100" height="100" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F056ff9f5-a9ef-486f-8acb-9eef51d06a2d%2F5c50f2a3-2565-4736-a990-e5299647e88c%2Fnotion-avatar.png?table=block&id=3cd9ce9f-dd74-46df-8d1d-c55690d1ec77&t=3cd9ce9f-dd74-46df-8d1d-c55690d1ec77?style=flat-square&link=https://seryoon-bibana-cheon.vercel.app/"/>
-  </a>
-  </td> 
-  </tr>
-  
-</table>
-</div>
-
-<br>
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ryoon-with-wisdomtrees&layout=compact" alt="ryoon-with-wisdomtrees's github top langs" />
