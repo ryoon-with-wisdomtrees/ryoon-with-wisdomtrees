@@ -37,9 +37,9 @@
 </br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<span style="width:100; height:30; border-radius:50; background-color: red">Recoil</span>
-<span style="width:100; height:30; border-radius:50; background-color: #0000">Zotail</dspaniv>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> &nbsp;
+<img src="https://recoiljs.org/ko/img/logo.svg" width="100" height="40" alt="recoil" /> &nbsp;
+  <img src="https://seeklogo.com/images/J/jotai-logo-166D85BB22-seeklogo.com.png" width="100" height="30" alt="jotai" />
 </div>
   </br>
 <div>
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-<span style="width:100; height:30; border-radius:50; background-color: red">Convex</span>
+    <img src="https://github.com/ryoon-with-wisdomtrees/ryoon-with-wisdomtrees/assets/53728519/4d48c1bc-03a4-495b-9cce-fb26080a842d" height="40" alt="convex"  />
 </div> 
     </br>
 <div>
