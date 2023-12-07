@@ -8,11 +8,7 @@
 
   ## 🙋 Seryoon Cheon
 
-  ### Resume
 
-  <a href="https://seryoon-bibana-cheon.vercel.app/resume">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://seryoon-bibana-cheon.vercel.app/resume"/>
-  </a>
 
 </div>
 
@@ -75,13 +71,23 @@
   </br>  </br>
 
 <div align="center">
-
-  ### 📝 Blog
-
+<table>
+  <tr align="left">
+  <td valign="top">
+  <p style="font-weight:700">Resume</p>
+  <a href="https://seryoon-bibana-cheon.vercel.app/resume">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://seryoon-bibana-cheon.vercel.app/resume"/>
+  </a>
+  </td> 
+    <td align="center">
+  <p>Blog</p>
   <a href="https://seryoon-bibana-cheon.vercel.app/">
     <img width="100" height="100" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F056ff9f5-a9ef-486f-8acb-9eef51d06a2d%2F5c50f2a3-2565-4736-a990-e5299647e88c%2Fnotion-avatar.png?table=block&id=3cd9ce9f-dd74-46df-8d1d-c55690d1ec77&t=3cd9ce9f-dd74-46df-8d1d-c55690d1ec77?style=flat-square&link=https://seryoon-bibana-cheon.vercel.app/"/>
   </a>
-
+  </td> 
+  </tr>
+  
+</table>
 </div>
 
 <br>
