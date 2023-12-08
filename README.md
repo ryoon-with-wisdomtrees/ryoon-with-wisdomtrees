@@ -15,10 +15,9 @@
     <img src="https://img.shields.io/badge/ryoon.with.wisdomtrees-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-
+</br>
 <div align="center">
-
-  ## 📕 Skills & Tools
+<p align="center"><b>📕🪄  Skills & Tools</b></p>
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -73,7 +72,26 @@
 </div>
   </br>  </br>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ryoon-with-wisdomtrees&layout=compact" alt="ryoon-with-wisdomtrees's github top langs" />
-  </a>  
+
 <div>
+
+<p align="center"><b>📈 GiHub Stats</b></p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ryoon-with-wisdomtrees&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
+      </td>
+      <td align="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoon-with-wisdomtrees&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<div align=center>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryoon-with-wisdomtrees&count_bg=%2332399C&title_bg=%23BEA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</div>
+<br />
